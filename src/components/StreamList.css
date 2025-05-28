@@ -1,0 +1,18 @@
+.streamlist-container {
+    padding: 20px;
+  }
+  .streamlist-container ul {
+    list-style: none;
+    padding: 0;
+  }
+  .streamlist-container li {
+    display: flex;
+    justify-content: space-between;
+    margin: 8px 0;
+    padding: 6px;
+    background-color: #f4f4f4;
+  }
+  .icon-bar svg {
+    margin-left: 10px;
+    cursor: pointer;
+  }
