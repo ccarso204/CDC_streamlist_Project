@@ -1,0 +1,19 @@
+.tmdb-container {
+    padding: 20px;
+    background-color: #f9f9f9;
+  }
+  
+  .tmdb-container h2 {
+    margin-bottom: 15px;
+  }
+  
+  .movie-list {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .movie-list li {
+    margin-bottom: 10px;
+    font-size: 1.1rem;
+  }
+  
